@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84681e9076d4b5048b40ae88d80a5b25, type: 3}
+  m_Name: Longsword
+  m_EditorClassIdentifier: 
+  generalParams:
+    itemIcon: {fileID: 21300000, guid: 41b6b0c750a46de4f9ede3d84db1138c, type: 3}
+  itemType: 0
+  WeaponParams:
+    weaponType: 1
+    isMagical: 0
+    weaponDamageDie: 8
+    meleeReach: 5
+    weaponDamageDieCount: 1
+    isVersatile: 1
+    versatileParams:
+      versatileDamageDie: 10
+      versatileDamageDieCount: 1

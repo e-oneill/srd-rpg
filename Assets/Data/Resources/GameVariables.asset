@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf7219802c5b744991c6dfe03a8eef2, type: 3}
+  m_Name: GameVariables
+  m_EditorClassIdentifier: 
+  cameraMoveSpeed: 15
+  cameraZoomSpeed: 80
+  cameraTransform: {fileID: 11400000, guid: f4b5b3b5b2b46b94fa29effdd763193d, type: 2}
+  horizontalInput: {fileID: 11400000, guid: 3839baaf193bcf247aebb6639f93416b, type: 2}
+  verticalInput: {fileID: 11400000, guid: 03c5af4eddf8dfa4abdbcafc230ca846, type: 2}
+  zoomInput: {fileID: 11400000, guid: 07200ef1032076c4aabd9073c0538cd0, type: 2}
+  rotateInput: {fileID: 11400000, guid: 3df0c8afcf76de04dad2948773e0441c, type: 2}
